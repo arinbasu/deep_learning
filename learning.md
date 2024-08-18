@@ -1,0 +1,3 @@
+One hot encoding link:
+https://machinelearningmastery.com/how-to-one-hot-encode-sequence-data-in-python/
+https://github.com/christianversloot/machine-learning-articles/blob/main/one-hot-encoding-for-machine-learning-with-tensorflow-and-keras.md
