@@ -6,3 +6,5 @@ https://machinelearningmastery.com/using-normalization-layers-to-improve-deep-le
 
 ## k-fold cross validation
 https://github.com/christianversloot/machine-learning-articles/blob/main/how-to-use-k-fold-cross-validation-with-keras.md
+
+## Read deep learning from keras book
